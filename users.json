@@ -1,0 +1,26 @@
+[
+    {
+        "first_name": "abdallah",
+        "last_name": "ayman",
+        "email": "adfas@gmai.com",
+        "password": "432",
+        "phone": "01148791520",
+        "user_id": 1
+    },
+    {
+        "first_name": "bedo",
+        "last_name": "ayman",
+        "email": "ff@gmail.com",
+        "password": "567",
+        "phone": "01148791520",
+        "user_id": 2
+    },
+    {
+        "first_name": "abdallah",
+        "last_name": "ayman",
+        "email": "aa@gmail.com",
+        "password": "456",
+        "phone": "01148791520",
+        "user_id": 3
+    }
+]

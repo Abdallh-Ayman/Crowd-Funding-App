@@ -1,0 +1,29 @@
+[
+    {
+        "user_id": 1,
+        "project_id": 1,
+        "title": "web scrapping",
+        "details": "it scrap the needed location text from texas instrument website",
+        "total_target": 2000000,
+        "start_date": "2023-11-30",
+        "end_date": "2024-01-15"
+    },
+    {
+        "user_id": 2,
+        "project_id": 2,
+        "title": "py_project",
+        "details": "Crowd-Funding console app Crowdfunding ",
+        "total_target": 500000,
+        "start_date": "2023-12-01",
+        "end_date": "2024-02-22"
+    },
+    {
+        "user_id": 2,
+        "project_id": 3,
+        "title": "java",
+        "details": "it is big java",
+        "total_target": 8000000000000,
+        "start_date": "2024-01-23",
+        "end_date": "2024-06-22"
+    }
+]
